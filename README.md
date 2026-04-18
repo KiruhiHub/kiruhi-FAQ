@@ -1,19 +1,34 @@
-# Kiruhi - Frequently Asked Questions (FAQ)
+# Kiruhi FAQ: Python, Linux, AI Automation & Open Source Guides
 
-Welcome to the **Kiruhi FAQ repository**!  
-Here you’ll find answers to the most common questions about Kiruhi products, community, and technology topics.
+**Kiruhi FAQ** is your open-source hub for the most frequently asked questions on **Python automation**, **Linux setup**, **local AI tools**, JavaScript, and Kiruhi products.
+
+Get practical answers for Python scripting, Linux distros, AI agent workflows, post-install tips, and developer automation — all in one place.
 
 ## 📚 Categories
 
-- [🐍 Python](./python.md)
+- [🐍 Python](./python.md) — Scripts, automation, libraries & best practices
 - [⚙️ JavaScript](./javascript.md)
-- [🐧 Linux](./linux.md)
+- [🐧 Linux](./linux.md) — Best distros, AI setup, after-install guides
 - [🛍️ Kiruhi Products](./kiruhi-products.md)
 - [💬 Discord Server](./discord.md)
-- [👋 Who am I?](./whoaml?)
+- [👋 Who am I?](./whoaml)
 
 ---
 
-💡 **Contribute:**  
-If you’d like to add new questions or improve existing answers, feel free to open a **pull request** or join our  
-👉 [Kiruhi Discord Server](https://discord.gg/79JgHNqauU)!
+## 💡 Contribute
+
+Want to improve this FAQ?  
+Add new questions, expand answers, or share your automation scripts.
+
+- Open a **Pull Request**
+- Join the [Kiruhi Discord Server](https://discord.gg/79JgHNqauU)
+
+All contributions are highly welcome!
+
+---
+
+**License:** [MIT](LICENSE)
+
+---
+
+**Popular Topics:** python automation, linux ai setup, local ai tools, python faq, linux automation, ai agents, open source faq, devops guides
